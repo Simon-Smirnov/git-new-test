@@ -1,0 +1,1 @@
+document.body.innerHTML = <p>Do you like JavaScript? Yes or no?</p>
